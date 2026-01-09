@@ -19,6 +19,9 @@ Check the current stock value
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
+### 0.0.8 (2026-01-07)
+* (4eversr) change to yahoo api2-v3; fix SyntaxError: Unexpected token 'T', "Too Many Requests"
+
 ### 0.0.7 (2024-06-10)
 * fox #14, update yahoo-api
 
