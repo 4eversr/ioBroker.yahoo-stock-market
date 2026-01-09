@@ -1,14 +1,7 @@
 ![Logo](admin/yahoo-stock-market.png)
 # ioBroker.yahoo-stock-market
 
-[![NPM version](https://img.shields.io/npm/v/iobroker.yahoo-stock-market.svg)](https://www.npmjs.com/package/iobroker.yahoo-stock-market)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.yahoo-stock-market.svg)](https://www.npmjs.com/package/iobroker.yahoo-stock-market)
-![Number of Installations](https://iobroker.live/badges/yahoo-stock-market-installed.svg)
-![Current version in stable repository](https://iobroker.live/badges/yahoo-stock-market-stable.svg)
-
-[![NPM](https://nodei.co/npm/iobroker.yahoo-stock-market.png?downloads=true)](https://nodei.co/npm/iobroker.yahoo-stock-market/)
-
-**Tests:** ![Test and Release](https://github.com/Newan/ioBroker.yahoo-stock-market/workflows/Test%20and%20Release/badge.svg)
+npm install 4eversr/ioBroker.yahoo-stock-market
 
 ## yahoo-stock-market adapter for ioBroker
 
