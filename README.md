@@ -1,6 +1,7 @@
 ![Logo](admin/yahoo-stock-market.png)
 # ioBroker.yahoo-stock-market
 
+## Installation
 npm install 4eversr/ioBroker.yahoo-stock-market
 
 ## yahoo-stock-market adapter for ioBroker
