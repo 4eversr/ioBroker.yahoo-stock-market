@@ -41,6 +41,7 @@ Check the current stock value
 MIT License
 
 Copyright (c) 2024 Newan <info@newan.de>
+
 Fork with API Fix by 4eversr 01/2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
