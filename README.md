@@ -37,14 +37,11 @@ Check the current stock value
 ### 0.0.1 (2022-09-12)
 * (Newan) initial release
 
-## Donation
-[![](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L55UBQJKJEUJL)
-
-
 ## License
 MIT License
 
 Copyright (c) 2024 Newan <info@newan.de>
+Fork with API Fix by 4eversr 01/2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
