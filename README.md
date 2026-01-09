@@ -1,5 +1,11 @@
 ![Logo](admin/yahoo-stock-market.png)
-# ioBroker.yahoo-stock-market
+
+# ioBroker.yahoo-stock-market (Community Fork)
+
+⚠️ **Dies ist ein Community-Fork mit Bugfixes.**
+
+Das Original-Projekt wurde zuletzt im Jahr 2024 gewartet. 
+Dieser Fork behebt den Fehler "SyntaxError: Unexpected token 'T', "Too Many Requests"" und stelllt auf die neue Yahoo Api 2 v3 um.
 
 ## Installation
 npm install 4eversr/ioBroker.yahoo-stock-market
