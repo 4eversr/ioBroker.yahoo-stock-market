@@ -14,15 +14,13 @@ The original project has not been updated since 2024. This fork addresses the fo
 
 1. Open ioBroker Admin
 2. Go to **"Adapters"**
-3. Click on the **GitHub icon** (or "Install from custom URL")
-4. Enter:
+3. Click on the **GitHub icon**
+4. "Install from custom URL"
+5. Enter:
 ```
    https://github.com/4eversr/ioBroker.yahoo-stock-market
 ```
-   or
-```
-   4eversr/ioBroker.yahoo-stock-market
-```
+
 
 ### Method 2: Via Command Line (SSH/Terminal)
 
