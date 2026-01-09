@@ -2,10 +2,11 @@
 
 # ioBroker.yahoo-stock-market (Community Fork)
 
-⚠️ **Dies ist ein Community-Fork mit Bugfixes.**
+⚠️ **This is a community fork with bugfixes.**
 
-Das Original-Projekt wurde zuletzt im Jahr 2024 gewartet. 
-Dieser Fork behebt den Fehler "SyntaxError: Unexpected token 'T', "Too Many Requests"" und stelllt auf die neue Yahoo Api 2 v3 um.
+The original project has not been updated since 2024. This fork addresses the following issues:
+- Fixes the error: `SyntaxError: Unexpected token 'T', "Too Many Requests"`
+- Migrates to the new Yahoo Finance API v2/v3
 
 ## Installation
 
