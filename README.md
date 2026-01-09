@@ -8,7 +8,38 @@ Das Original-Projekt wurde zuletzt im Jahr 2024 gewartet.
 Dieser Fork behebt den Fehler "SyntaxError: Unexpected token 'T', "Too Many Requests"" und stelllt auf die neue Yahoo Api 2 v3 um.
 
 ## Installation
+
+### Method 1: Via ioBroker Admin Interface (Custom URL)
+
+1. Open ioBroker Admin
+2. Go to **"Adapters"**
+3. Click on the **GitHub icon** (or "Install from custom URL")
+4. Enter:
+```
+   https://github.com/4eversr/ioBroker.yahoo-stock-market
+```
+   or
+```
+   4eversr/ioBroker.yahoo-stock-market
+```
+
+### Method 2: Via Command Line (SSH/Terminal)
+
+Connect to your ioBroker server via SSH and execute:
+```bash
+cd /opt/iobroker
 npm install 4eversr/ioBroker.yahoo-stock-market
+iobroker upload yahoo-stock-market
+```
+
+### Method 3: Via ioBroker CLI
+```bash
+iob install 4eversr/ioBroker.yahoo-stock-market
+```
+
+---
+
+**Note:** This is a community fork with bugfixes. The original project has not been maintained since 2 years.
 
 ## yahoo-stock-market adapter for ioBroker
 
